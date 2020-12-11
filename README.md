@@ -19,8 +19,8 @@ This is a web page created to let drivers Signup as Bolt drivers.
 
 Output for Desktop:
 
-[<img src="bolt-driver/static/images/readme/desktop.png" width="700" style="text-align:center"/>](bolt-driver/static/images/readme/desktop.png)
+[<kbd><img src="bolt-driver/static/images/readme/desktop.png" width="700" style="text-align:center"/><kbd>](bolt-driver/static/images/readme/desktop.png)
 
 Output for Mobile:
 
-[<img src="bolt-driver/static/images/readme/mobile.png" width="200" style="text-align:center"/>](bolt-driver/static/images/readme/mobile.png)
+[<kbd><img src="bolt-driver/static/images/readme/mobile.png" width="200" style="text-align:center"/><kbd>](bolt-driver/static/images/readme/mobile.png)
